@@ -1,3 +1,5 @@
+// this is a simple comment
+
 import React from 'react'
 
 const ContactPage = () => {
