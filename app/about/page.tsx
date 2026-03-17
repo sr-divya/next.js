@@ -7,6 +7,7 @@ const AboutPage = () => {
             <p>Welcome to our about page!</p>
             <p>divya sengar</p>
             <p>about section</p>
+            <h1>Hello betu</h1>
         </div>
     );
 };
